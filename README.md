@@ -1,6 +1,6 @@
 # DrawerLayoutPolyfillExample
 
-This sample react-native application shows `react-native-drawer-layout-polyfill` in usage. This repository is also meant as possible basis for bug reports. [See it on your device with Exponent](https://exp.host/@danielmschmidt/drawer-layout-polyfill-example)
+This sample react-native application shows [`react-native-drawer-layout-polyfill`](https://github.com/react-native-community/react-native-drawer-layout-polyfill) in usage. This repository is also meant as possible basis for bug reports. [See it on your device with Exponent](https://exp.host/@danielmschmidt/drawer-layout-polyfill-example)
 
 ## Installation
 
