@@ -10,7 +10,7 @@ const {
   TouchableHighlight,
   View,
 } = ReactNative;
-import DrawerLayout from 'react-native-drawer-layout';
+import DrawerLayout from 'react-native-drawer-layout-polyfill';
 
 var DrawerLockModeSwitches = React.createClass({
 
