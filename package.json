@@ -10,7 +10,7 @@
     "exponent": "~13.1.0",
     "react": "~15.4.1",
     "react-native": "github:exponent/react-native#sdk-13.0.1",
-    "react-native-drawer-layout-polyfill": "^0.0.0"
+    "react-native-drawer-layout-polyfill": "next"
   },
   "main": ""
 }
